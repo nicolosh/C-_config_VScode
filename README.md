@@ -1,4 +1,4 @@
-# Basic VSCode C++ Configuration
+# Basic VScode C++ Configuration
 
 This repository can be used as template when creating a new repository here on GitHub. Students are encouraged to create personal private repositories where they will keep their exercises, tests and assignements.
 
