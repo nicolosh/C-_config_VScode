@@ -27,7 +27,5 @@ int main()
             cout << n << " is NOT a prime number" << std::endl;
 
         std::cout << "Insert n = 0 to exit the loop asking for an integer!\n";
-        cout << "Enter another positive integer: \n";
-        cin >> n;
     }       
 }
