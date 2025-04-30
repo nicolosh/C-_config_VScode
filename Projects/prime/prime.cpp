@@ -23,9 +23,10 @@ bool isPrime_v2(int n)
 	// 0 and 1 are not prime numbers
 	if(n == 0 || n==1)
 		return false;
+    std::cout << n << "/" << 1 << std::endl;
     for(int k=2; k <= n-1; k++)
     {
-        std::cout << n << "/" << k << std::endl;
+        std::cout << n << "/" << k << std::endl;    
         if(n % k == 0)
         {
             std::cout << n << " is divisible by " << k << std::endl;
