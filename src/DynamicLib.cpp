@@ -1,7 +1,3 @@
-//
-// Created by olli on 31/01/20.
-//
-
 #include "libdynamic/DynamicLib.h"
 
 #include <utility>

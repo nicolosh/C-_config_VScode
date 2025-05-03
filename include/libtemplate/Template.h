@@ -1,7 +1,3 @@
-//
-// Created by olli on 06/05/20.
-//
-
 #ifndef STRUCTURE_TEMPLATE_H
 #define STRUCTURE_TEMPLATE_H
 
