@@ -1,1 +1,5 @@
+/cmake-build-*/
+#/.vscode/
+/.idea/
+/build/
 *.exe
