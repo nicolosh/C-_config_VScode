@@ -15,4 +15,6 @@ Then write `g++ filename.cpp -o whateverName` and the build is done (if you have
 
 Finally, just type (on `Windows`) `./whateverName` to run the program  
 
+[Tests](https://github.com/nicolosh/Cpp_config_VScode/tree/main/tests) folder included to run tests.
+
 
